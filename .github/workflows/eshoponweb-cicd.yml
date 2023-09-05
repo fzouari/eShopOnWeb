@@ -9,7 +9,7 @@ env:
   LOCATION: eastasia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 47528476-2558-418b-b546-8a540cf6ad7c
-  WEBAPP-NAME: az400-webapp-eshop
+  WEBAPP-NAME: az400-webapp-fedi-eshop
 
 
 jobs:
